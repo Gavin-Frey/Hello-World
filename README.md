@@ -1,5 +1,5 @@
-# Hello-World :WAVE: 
-# *Table of Contents*
+# Hello-World 👋
+# *Table of Contents* 📘
 - Project Title
 - Description
 - How To Run Program
