@@ -1,4 +1,4 @@
-# Hello-World :Emojicode: Wave 
+# Hello-World :EMOJICODE:Wave 
 # *Table of Contents*
 - Project Title
 - Description
